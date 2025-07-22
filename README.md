@@ -6,7 +6,7 @@ This project demonstrates two cloth simulations in Unreal Engine, created by imp
 
 - **Image 1:** Plane
 - **Image 2a & 2b:** Falling Cloth on sphere - Before & After   
-- **Image 3:** Flag Simulation
+- **Image 3a & 3b:** Flag Simulation - Before & After
 - **Simulation 1a & 1b:** Falling Cloth on sphere  
 - **Simulation 2:** Flag Simulation
 
@@ -72,5 +72,14 @@ This project demonstrates two cloth simulations in Unreal Engine, created by imp
 <p align="center">
   <img src="Media/Flag.png" width="750" height="700"/>
   <br>
-  <em>Image 3: Flag</em>
+  <em>Image 3a: Flag (before)</em>
 </p>
+
+<p align="center">
+  <img src="Media/2_Flag.png" width="750" height="700"/>
+  <br>
+  <em>Image 3b: Flag (after)</em>
+</p>
+
+[![Watch the demo](Media/1_Cloth.png)](https://user-images.githubusercontent.com/.../your-video.mp4)
+
