@@ -4,7 +4,7 @@
 
 This project demonstrates two cloth simulations in Unreal Engine, created by importing Blender-modeled plane with skeletal mesh and implementing UE (version 5.6) cloth plugin:
 
-- **Image 1:** Plane
+- **Image 1:** Plane Creation
 - **Image 2a & 2b:** Falling Cloth on sphere - Before & After
 - **Simulation 1:** Falling Cloth on sphere    
 - **Image 3a & 3b:** Flag Simulation - Before & After
@@ -54,7 +54,7 @@ This project demonstrates two cloth simulations in Unreal Engine, created by imp
 <p align="center">
   <img src="Blender_Files/Plane.png" width="750" height="700"/>
   <br>
-  <em>Image 1: Plane</em>
+  <em>Image 1: Plane Creation</em>
 </p>
  
 <p align="center">
